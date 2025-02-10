@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "e3e5a02bcfde0691",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f28c16c5bd8626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51412ed1c5a2e2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Програмирование/Лекция 10_02_2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 10_02_2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0026bd019ab509c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1886de967c464f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "798d6fb6490232a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e7c6aeed78b5880",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4201f0196fc2d68e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0facfb34ac1eaef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1995862ba74b6f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca39edfff2b6c3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Програмирование/Лекция 10_02_2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лекция 10_02_2025"
+            }
+          },
+          {
+            "id": "378f59d9ad14ef39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Програмирование/Лекция 10_02_2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лекция 10_02_2025"
+            }
+          },
+          {
+            "id": "132c9ce1b6482ed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c5bb9cbc7d17093",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Програмирование/Лекция 10_02_2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лекция 10_02_2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "51412ed1c5a2e2d4",
+  "lastOpenFiles": [
+    "Програмирование/STL_scheme.canvas",
+    "Програмирование/Лекция 10_02_2025.md",
+    "attachments/Screenshot 2025-02-10 at 14.01.43.png",
+    "!Untitled.canvas",
+    "English/English 10_02_2025.md",
+    "Програмирование",
+    "English/English.md",
+    "English"
+  ]
+}

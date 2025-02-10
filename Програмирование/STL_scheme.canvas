@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1096dd43910470f6","type":"text","text":"Контейнер","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"82af4e4cfbecfb1f","type":"text","text":"Алгоритм","x":-125,"y":138,"width":250,"height":60,"color":"1"},
+		{"id":"4eb43c15e6815d86","type":"text","text":"Число","x":-123,"y":363,"width":250,"height":60},
+		{"id":"6b7f4cf70fdee916","type":"text","text":"Контейнер","x":-440,"y":363,"width":250,"height":60},
+		{"id":"b6eefe430f28d335","type":"text","text":"Итератор","x":180,"y":363,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3ce023502bd010f9","fromNode":"1096dd43910470f6","fromSide":"bottom","toNode":"82af4e4cfbecfb1f","toSide":"top","label":"Итератор"},
+		{"id":"1cf328708fcfd73e","fromNode":"82af4e4cfbecfb1f","fromSide":"bottom","toNode":"6b7f4cf70fdee916","toSide":"top"},
+		{"id":"70bf78287f892cb9","fromNode":"82af4e4cfbecfb1f","fromSide":"bottom","toNode":"4eb43c15e6815d86","toSide":"top"},
+		{"id":"7a5ee9745fefe7d9","fromNode":"82af4e4cfbecfb1f","fromSide":"bottom","toNode":"b6eefe430f28d335","toSide":"top"}
+	]
+}
