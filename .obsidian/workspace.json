@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Програмирование/Лекция 10_02_2025.md",
+                "file": "Физика/Основы кинематики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 10_02_2025"
+              "title": "Основы кинематики"
+            }
+          },
+          {
+            "id": "750853e70482a5c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-11 19.05.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-11 19.05.58.excalidraw"
             }
           }
         ]
@@ -171,8 +183,16 @@
   },
   "active": "51412ed1c5a2e2d4",
   "lastOpenFiles": [
-    "Програмирование/STL_scheme.canvas",
+    "Excalidraw/Drawing 2025-02-11 19.05.58.excalidraw.md",
+    "Физика/Основы кинематики.md",
+    "Excalidraw/Drawing 2025-02-11 18.56.45.excalidraw.md",
+    "Excalidraw",
+    "Физика/Механика.canvas",
+    "Физика/Основы кинематики/Механическое движение.md",
+    "Физика/Основы кинематики",
     "Програмирование/Лекция 10_02_2025.md",
+    "Физика",
+    "Програмирование/STL_scheme.canvas",
     "attachments/Screenshot 2025-02-10 at 14.01.43.png",
     "!Untitled.canvas",
     "English/English 10_02_2025.md",

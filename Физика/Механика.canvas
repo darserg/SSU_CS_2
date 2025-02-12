@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"568636bf252d462b","type":"text","text":"**Классическая механика**\n(Механика Галлилея-Ньютона)\nизучает движение макроскопических тел, со скоростями, намного меньшими скорости света","x":-620,"y":100,"width":308,"height":200},
+		{"id":"1c875e9dd27a5fb8","type":"text","text":"**Кинематика**\nизучает движение тел, не рассматривая причины его возникновения","x":-1005,"y":482,"width":250,"height":158},
+		{"id":"3b979e2ccd281573","type":"text","text":"**Динамика**\nИзучает законы движения тел, которые вызывают или изменяют это движение","x":-562,"y":482,"width":250,"height":178},
+		{"id":"6bfc12000b8e6ccd","type":"text","text":"# Механика","x":-125,"y":-160,"width":250,"height":60},
+		{"id":"95818293b5240563","type":"text","text":"**Рялятивистская механика**\nСпециальная теория относительности\nДвижение со скоростями, близкими к скорости света","x":-160,"y":100,"width":320,"height":172},
+		{"id":"35fe5aa2a342f7ed","type":"text","text":"**Квантовая механика**\nИзучает движение микроскопических тел","x":340,"y":100,"width":250,"height":108},
+		{"id":"0d132e26a37bb9bd","type":"text","text":"**Статика**\nИзучает законы равновесия тел","x":-160,"y":482,"width":250,"height":89}
+	],
+	"edges":[
+		{"id":"75af8bf359307e1a","fromNode":"6bfc12000b8e6ccd","fromSide":"bottom","toNode":"568636bf252d462b","toSide":"top"},
+		{"id":"e628fe63780ac13a","fromNode":"6bfc12000b8e6ccd","fromSide":"bottom","toNode":"95818293b5240563","toSide":"top"},
+		{"id":"850c6026299344ad","fromNode":"6bfc12000b8e6ccd","fromSide":"bottom","toNode":"35fe5aa2a342f7ed","toSide":"top"},
+		{"id":"45606449d4123588","fromNode":"568636bf252d462b","fromSide":"bottom","toNode":"1c875e9dd27a5fb8","toSide":"top"},
+		{"id":"a89bb81cfc52107a","fromNode":"568636bf252d462b","fromSide":"bottom","toNode":"3b979e2ccd281573","toSide":"top"},
+		{"id":"3b9db44e25cf38d0","fromNode":"568636bf252d462b","fromSide":"bottom","toNode":"0d132e26a37bb9bd","toSide":"top"}
+	]
+}
