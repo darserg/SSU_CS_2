@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История/Практика/Февраль/История Семинар 13_02_2025.md",
+                "file": "АСВТ/Лекция 14_02_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "История Семинар 13_02_2025"
+              "title": "Лекция 14_02_2025"
+            }
+          },
+          {
+            "id": "493fe565940d62cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-14 13.14.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-14 13.14.21.excalidraw"
             }
           }
         ]
@@ -172,8 +184,15 @@
   },
   "active": "c26768aeb09c4de4",
   "lastOpenFiles": [
-    "История/Лекции/Февраль/История 13_02_2025.md",
+    "Excalidraw/Drawing 2025-02-14 13.14.21.excalidraw.md",
+    "АСВТ/Лекция 14_02_2025.md",
+    "Excalidraw/Drawing 2025-02-14 13.10.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-14 12.39.14.excalidraw.md",
+    "Лекция 14_02_2025.pdf",
+    "Excalidraw/Drawing 2025-02-14 12.11.13.excalidraw.md",
     "История/Практика/Февраль/История Семинар 13_02_2025.md",
+    "АСВТ",
+    "История/Лекции/Февраль/История 13_02_2025.md",
     "Алгебра/Многочлены.md",
     "История/Практика/Февраль",
     "Физика/Основы кинематики.md",
@@ -190,11 +209,9 @@
     "Алгебра",
     "Матан",
     "Untitled.md",
-    "English/February",
     "English/February/English 10_02_2025.md",
     "Excalidraw/Drawing 2025-02-11 19.05.58.excalidraw.md",
     "Excalidraw/Drawing 2025-02-11 18.56.45.excalidraw.md",
-    "Excalidraw",
     "Физика/Механика.canvas",
     "Физика/Основы кинематики/Механическое движение.md",
     "Програмирование/Лекция 10_02_2025.md",
